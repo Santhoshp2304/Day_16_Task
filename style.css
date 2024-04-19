@@ -1,0 +1,12 @@
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    padding: 250px 50px;
+}
+
+#countDown{
+    
+    font-size: 6rem;
+    background-color: aqua;
+}
